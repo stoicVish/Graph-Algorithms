@@ -4,3 +4,4 @@ Algorithms that work on graphs:
 * Depth First Search
 * Dijkstra Shortest Path Algorithm
 * Kruskal Minimum spanning tree
+* Prim Minimum Spanning tree
